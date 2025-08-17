@@ -1,0 +1,11 @@
+2025-08-23 19:04:53 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2025-08-23 19:05:04 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2025-08-23 19:05:04 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2025-08-23 19:05:04 ERROR TestVWOLogin_PF - Finished the Testcases Page Factory
+2025-08-23 19:05:04 FATAL TestVWOLogin_PF - Fatal error - code is dead!
+2025-08-23 20:25:55 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-08-23 20:26:06 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-08-23 20:26:12 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-08-23 20:48:52 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-08-23 20:49:01 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-08-23 20:49:12 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model

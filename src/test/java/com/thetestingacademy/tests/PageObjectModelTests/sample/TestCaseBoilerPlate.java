@@ -23,7 +23,7 @@ public class TestCaseBoilerPlate {
     @Test
     public void test() {
         driver.get("https://app.vwo.com");
-        Assert.assertEquals(driver.getTitle(), "Login - VWO");
+        Assert.assertEquals(driver.getTitle(), "VWO - Application");
     }
 
     @AfterTest

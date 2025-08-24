@@ -12,7 +12,7 @@ public class DashBoardPage extends CommonToAllPage {
         this.driver = driver;
     }
 
-    By userNameOnDashboard = By.cssSelector("[data-qa=\"lufexuloga\"]");
+    By userNameOnDashboard = By.cssSelector("[data-qa=\"page-heading\"]");
 
 
     // Page Actions

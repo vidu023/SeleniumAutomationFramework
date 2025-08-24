@@ -8,6 +8,12 @@
                     <include name="test"/>
                 </methods>
             </class>
+            <class name="com.thetestingacademy.tests.PageObjectModelTests.VWO.TestVWOLogin_01_NormalScript_POM">
+                <methods>
+                    <include name="test_negative_vwo_login"/>
+                    <include name="testLoginPositiveVWO"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>

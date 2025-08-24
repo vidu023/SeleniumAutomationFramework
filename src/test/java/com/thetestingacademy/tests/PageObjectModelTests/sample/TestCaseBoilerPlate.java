@@ -1,5 +1,7 @@
 package com.thetestingacademy.tests.PageObjectModelTests.sample;
 
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
@@ -9,14 +11,14 @@ import org.testng.annotations.Test;
 
 public class TestCaseBoilerPlate {
 
-    public EdgeDriver driver;
+    public ChromeDriver driver;
 
     @BeforeTest
     public void openBrowser() {
 
-        EdgeOptions edgeOptions = new EdgeOptions();
-        edgeOptions.addArguments("--guest");
-        driver = new EdgeDriver(edgeOptions);
+        ChromeOptions chromeOptions = new ChromeOptions();
+        chromeOptions.addArguments("--guest");
+        driver = new ChromeDriver(chromeOptions);
 
     }
 
